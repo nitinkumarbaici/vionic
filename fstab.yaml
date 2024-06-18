@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p13754-e1241760.adobeaemcloud.com/bin/franklin.delivery/nitinkumarbaici/vionic/main"
+    type: "markup"
+    suffix: ".html"

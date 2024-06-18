@@ -1,0 +1,6 @@
+{
+  "mappings": [
+    "/content/vionic/:/",
+    "/content/vionic/configuration:/.helix/config.json"
+  ]
+}
