@@ -1,0 +1,23 @@
+:root {
+  --color-primary: #eb002a;
+  --color-secondary: #022035;
+  --color-tertiary: #022035;
+  --color-header-background: #022035;
+  --surface-bg-cream: #f0efed;
+  --surface-dark-0: #041526;
+  --surface-dark-1: #152a3f;
+  --color-grey-50: #f6f9fb;
+  --color-grey-100: #e7ecf1;
+  --color-grey-200: #c4ccd8;
+  --color-grey-300: #abb5c5;
+  --color-grey-400: #727f96;
+  --color-grey-500: #4f5b76;
+  --color-grey-600: #3f4b66;
+  --color-grey-700: #2e3a55;
+  --color-grey-800: #152a3f;
+  --color-grey-900: #041526;
+  --brand-logo-width-mobile: 154px;
+  --brand-logo-height-mobile: 34px;
+  --brand-logo-width-desktop: 172px;
+  --brand-logo-height-desktop: 38px;
+}
