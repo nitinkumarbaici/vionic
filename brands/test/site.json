@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "siteCode": "test",
+  "domain": "test",
+  "locale": "en-US",
+  "aemRoot": "",
+  "aemEnv": "",
+  "previewUrl": "https://main--test--nitinkumarbaici.aem.page",
+  "redirectStrategy": "inherit",
+  "sitemapEnabled": true,
+  "robotsIndexable": false,
+  "createdAt": "2026-11-27T20:38:59.610Z"
+}
