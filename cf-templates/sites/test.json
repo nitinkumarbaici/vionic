@@ -1,0 +1,8 @@
+{
+  "$schema": "../sites.schema.json",
+  "site": "test",
+  "org": "nitinkumarbaici",
+  "aemEnv": "p{programId}-e{envId}",
+  "contentPath": "/content/test/",
+  "models": {}
+}
